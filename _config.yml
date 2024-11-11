@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Pang’s homepage"
-description              : "Introduce my research and my blogs. "
+description              : #"Introduce my research and my blogs. "
 repository               : "TDCSZ327/tianyupang.github.io"
 google_scholar_stats_use_cdn : true
 

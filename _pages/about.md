@@ -48,6 +48,14 @@ I am passionate about machine learning and Statistical Learning. My  current res
 
 EMNLP 2024 <span style="color: red;">Oral</span>
 
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +66,14 @@ EMNLP 2024 <span style="color: red;">Oral</span>
 [Code](https://github.com/YefanZhou/TempBalance)|[Paper](https://arxiv.org/abs/2312.00359)|[Video](https://recorder-v3.slideslive.com/?share=87192&s=14ff4069-14ea-4f19-bf8b-368a2db26dfd)
 
 NeurIPS 2023 <span style="color: red;">Spotlight</span>
+
+
+
+
+
+
+
+
 
 
 
