@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyu Pang’s homepage"
-description              : #"Introduce my research and my blogs. "
+title                    : "Tianyu Pang"
+description              : ""
 repository               : "TDCSZ327/tianyupang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/TDCSZ327"
+  github           : "TDCSZ327"
   google_plus      :
   keybase          :
   instagram        :
