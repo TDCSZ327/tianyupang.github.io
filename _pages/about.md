@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm Tianyu. I am a master student at [Department of Mathematics, Nanjing University](https://math.nju.edu.cn). I have the great honor of being advised by [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) at Dartmouth College.
 
-I am passionate about machine learning and Statistical Learning. My  current research is focused on
+I am passionate about machine learning and statistical learning. My  current research is focused on
 
 - developing model/data diagnostics to improve the transparency, robustness and efficiency  of (scientific) machine learning;
 - understanding the dynamics, feature learning and generalization of ML models  from the perspective of random matrix theory, high-dimensional statistics and loss landscape.
@@ -31,11 +31,13 @@ I am passionate about machine learning and Statistical Learning. My  current res
 
 
 # 🔥 News
-- *2024.10*: &nbsp;😁 Completing a wonderful three-month internship at Dartmouth College.
+- *2024.10*: &nbsp;😁 Completing a wonderful three-month visiting at Dartmouth College.
 - *2024.09*: &nbsp;🎉🎉 Excited to share that our work “Model Balancing Helps Low-data Training and Fine-tuning” is accepted by [EMNLP 2024](https://2024.emnlp.org) as **Oral Presentation**!
 - *2023.09*: &nbsp;🎉🎉 Excited to share that our work “Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training” is accepted by [NeurIPS 2023](https://neurips.cc/Conferences/2023) as **Spotlight**!
 
 # 📝 Publications 
+
+（# denotes equal contribution）
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,41 +46,36 @@ I am passionate about machine learning and Statistical Learning. My  current res
 
 [Zihang Liu](https://zihanghliu.github.io)#, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ)#, **Tianyu Pang**, [Yefan Zhou](https://yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[Code](https://github.com/ZihangHLiu/ModelBalancing)|[Paper](https://arxiv.org/abs/2410.12178)
+[Code](https://github.com/ZihangHLiu/ModelBalancing)\|[Paper](https://arxiv.org/abs/2410.12178)
 
 **EMNLP 2024 <span style="color: red;">Oral</span>**
 
 </div>
-
 </div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training **
+**Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training** 
 
 [Yefan Zhou](https://yefanzhou.github.io)#, **Tianyu Pang**#, [Keqin Liu](https://scholar.xjtlu.edu.cn/en/persons/kevin-liu), [Charles H. Martin](https://www.linkedin.com/in/charlesmartin14/), [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[Code](https://github.com/YefanZhou/TempBalance)|[Paper](https://arxiv.org/abs/2312.00359)|[Video](https://recorder-v3.slideslive.com/?share=87192&s=14ff4069-14ea-4f19-bf8b-368a2db26dfd)
+[Code](https://github.com/YefanZhou/TempBalance)\|[Paper](https://arxiv.org/abs/2312.00359)\|[Video](https://recorder-v3.slideslive.com/?share=87192&s=14ff4069-14ea-4f19-bf8b-368a2db26dfd)
 
 **NeurIPS 2023 <span style="color: red;">Spotlight</span>**
 
 </div>
-
 </div>
-
-</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICLR_2025_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Crafting Heavy-Tails in Weight Matrix Spectrum without Gradient Noise **
+
+**Crafting Heavy-Tails in Weight Matrix Spectrum without Gradient Noise** 
 
 [Vignesh Kothapalli](https://kvignesh1420.github.io), **Tianyu Pang**, [Shenyang Deng](https://scholar.google.com/citations?user=TvUZLD8AAAAJ&hl=en&oi=ao), [Zongmin Liu](https://www.linkedin.com/in/zongmin-dylan-liu-73438a242/details/education/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[Code](https://github.com/kvignesh1420/single-index-ht)|[Paper](https://arxiv.org/pdf/2406.04657)
+[Code](https://github.com/kvignesh1420/single-index-ht)\|[Paper](https://arxiv.org/pdf/2406.04657)
 
 Preprint
 
