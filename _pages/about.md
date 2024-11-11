@@ -48,7 +48,7 @@ I am passionate about machine learning and Statistical Learning. My  current res
 
 EMNLP 2024 <span style="color: red;">Oral</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training **
