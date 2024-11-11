@@ -46,13 +46,11 @@ I am passionate about machine learning and Statistical Learning. My  current res
 
 [Code](https://github.com/ZihangHLiu/ModelBalancing)|[Paper](https://arxiv.org/abs/2410.12178)
 
-EMNLP 2024 <span style="color: red;">Oral</span>
+**EMNLP 2024 <span style="color: red;">Oral</span>**
 
+</div>
 
-
-
-
-
+</div>
 
 
 
@@ -65,17 +63,11 @@ EMNLP 2024 <span style="color: red;">Oral</span>
 
 [Code](https://github.com/YefanZhou/TempBalance)|[Paper](https://arxiv.org/abs/2312.00359)|[Video](https://recorder-v3.slideslive.com/?share=87192&s=14ff4069-14ea-4f19-bf8b-368a2db26dfd)
 
-NeurIPS 2023 <span style="color: red;">Spotlight</span>
+**NeurIPS 2023 <span style="color: red;">Spotlight</span>**
 
+</div>
 
-
-
-
-
-
-
-
-
+</div>
 
 </span>
 
@@ -89,4 +81,8 @@ NeurIPS 2023 <span style="color: red;">Spotlight</span>
 [Code](https://github.com/kvignesh1420/single-index-ht)|[Paper](https://arxiv.org/pdf/2406.04657)
 
 Preprint
+
+</div>
+
+</div>
 
